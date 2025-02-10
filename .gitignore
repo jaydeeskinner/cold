@@ -1,0 +1,7 @@
+__pycache__/
+data/
+fetch_senders.py
+reached/
+senders.json
+sequences/
+stupid_test.py

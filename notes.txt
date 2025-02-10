@@ -1,0 +1,2 @@
+[Todo]
+- The fake sender should alternate between legitimate email addresses as opposed to just test@example.com.
